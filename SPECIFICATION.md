@@ -2,21 +2,6 @@
 
 **Purpose:** Technical reference for building interactive math teaching tools
 
----
-
-## 🔒 DOCUMENT MODIFICATION PROTECTION
-
-**PASSWORD REQUIRED: `Meden123` (case-insensitive)**
-
-Before modifying THIS document, Claude MUST request the password.
-
-**No password needed for:**
-- Creating new tools based on this spec
-- Answering questions about the spec
-- Reading the spec
-
----
-
 ## 🎯 THREE-MODE STRUCTURE
 
 Every tool has three modes supporting "I Do, We Do, You Do" pedagogy:
