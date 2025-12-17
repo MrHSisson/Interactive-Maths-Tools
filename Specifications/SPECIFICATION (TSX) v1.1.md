@@ -77,12 +77,6 @@ Tools now include **centered dividing lines** between major sections for visual 
   </button>
 </div>
 
-{/* Dividing Line 2 */}
-<div className="flex justify-center mb-8">
-  <div style={{width: '90%', height: '1px', backgroundColor: '#d1d5db'}}></div>
-</div>
-```
-
 **Divider Specifications:**
 - Height: 1px (inline style)
 - Color: #d1d5db (light gray-300)
