@@ -18,7 +18,7 @@ A collection of React-based teaching tools that run instantly in Claude.ai with 
 
 ## How It Works
 
-All tools follow a consistent [Core System Specification](SPECIFICATION (TSX) v1.1) ensuring uniform behavior, visual design, and mathematical accuracy across topics.
+All tools follow a consistent specification ensuring uniform behavior, visual design, and mathematical accuracy across topics.
 
 **Typical Use:**
 1. Open Claude.ai
