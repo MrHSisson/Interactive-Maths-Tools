@@ -1038,7 +1038,7 @@ Examples:
 
 ## 📝 VERSION HISTORY
 
-**v1.6 (December 2024)**
+**v1.6**
 - Updated Whiteboard Mode: Answer now displays in dark green (`#166534`), question stays black
 - Updated Single Q Mode: Final answer changed to `text-5xl` and dark green (`#166534`)
 - Added Feature 5: Dark Green Answers (now standard for Whiteboard/Single Q)
@@ -1049,7 +1049,7 @@ Examples:
 - Updated Requirements Checklist with answer color/size requirements
 - Updated Dynamic Styling verification process for answer colors
 
-**v1.5 (December 2024)**
+**v1.5**
 - Added Feature 3: Worksheet Font Size Controls (now standard)
   - Up/down arrow buttons (ChevronUp/ChevronDown)
   - Four sizes: text-xl, text-2xl, text-3xl, text-4xl
@@ -1070,7 +1070,7 @@ Examples:
 - Updated Requirements Checklist with new features
 - Added new imports: ChevronUp, ChevronDown
 
-**v1.4 (December 2024)**
+**v1.4**
 - Added principle-based Visual Hierarchy rules for Feature 1
 - Added Universal Text Color Rule (black on all colored backgrounds)
 - Replaced implementation-specific examples with general patterns
@@ -1081,14 +1081,14 @@ Examples:
 - Clarified Feature 1 applies to ANY visual representation
 - Emphasized two-blue system: lighter main, darker support
 
-**v1.3 (December 2024)**
+**v1.3**
 - Made column selector standard feature
 - Added Dynamic Styling section
 - Strengthened Feature 1 integration
 - Added helper function naming conventions
 - Enhanced checklist with visual requirements
 
-**v1.2 (December 2024)**
+**v1.2**
 - Added modular features system
 - Blue-first color palette
 - Standardized text colors
