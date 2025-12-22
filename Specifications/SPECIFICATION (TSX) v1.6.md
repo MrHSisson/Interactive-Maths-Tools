@@ -281,7 +281,7 @@ export default function ToolName() {
                       <span className="font-semibold">{i + 1}.</span>
                       <span className="ml-2 font-bold">{q.display}</span>
                       {showWorksheetAnswers && (
-                        <span className="ml-3 font-semibold" style={{ color: '#059669' }}>= {q.answer}</span>
+                        <span className="ml-3 font-semibold" style={{ color: '#166534' }}>= {q.answer}</span>
                       )}
                     </div>
                   ))}
